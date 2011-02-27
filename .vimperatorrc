@@ -1,0 +1,19 @@
+"2.3.1 (created: 2010/04/07 18:25:13)
+
+set guioptions=rbmT
+set runtimepath=/home/michal/.vimperator
+source! /home/michal/.vimperatorrc.local
+
+" vim: set ft=vimperator:
+
+"http://code.google.com/p/vimperator-labs/issues/detail?id=112&q=project%3ALiberator%2CVimperator type%3Aplugin&colspec=ID Summary Project Type Status Priority Stars Owner
+" DEFINED IN .vimperatorrc.local
+"let g:instapaper_username = "your_username_here"
+"let g:instapaper_password = "your_password_here"
+
+"http://code.google.com/p/vimperator-labs/issues/detail?id=230&q=project%3ALiberator%2CVimperator type%3Aplugin&colspec=ID Summary Project Type Status Priority Stars Owner
+let g:translate_langpair="en|cs"
+
+
+noremap <C-i> :rl<CR>
+

@@ -1,0 +1,4 @@
+copy all this stuff to your HOME directory
+note that this is *nix specific. on windows you have to change names
+of .vimperator directory and .vimperatorrc to names without that initial dot
+(that how vimperator works)
